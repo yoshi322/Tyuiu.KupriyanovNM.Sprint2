@@ -5,7 +5,7 @@ namespace Tyuiu.KupriyanovNM.Sprint2.Task0.V21.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestMethod()
         {
             DataService dataService = new DataService();
 

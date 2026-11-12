@@ -7,12 +7,12 @@ namespace Tyuiu.KupriyanovNM.Sprint2.Task0.V21.Lib
         {
             bool[] result = new bool[6];
 
-            result[0] = x + 1 == y;       // ==
-            result[1] = x - 930 != y;     // !=
-            result[2] = x < y;            // <
-            result[3] = x - 1000 > y;     // >
-            result[4] = x + 1 <= y;       // <=
-            result[5] = x - 1000 >= y;    // >=
+            result[0] = x + 1 == y;       
+            result[1] = x - 930 != y;     
+            result[2] = x < y;            
+            result[3] = x - 1000 > y;     
+            result[4] = x + 1 <= y;       
+            result[5] = x - 1000 >= y;    
 
             return result;
         }
