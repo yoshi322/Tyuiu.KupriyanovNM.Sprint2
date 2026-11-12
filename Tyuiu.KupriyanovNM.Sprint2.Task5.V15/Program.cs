@@ -11,14 +11,13 @@ namespace Tyuiu.KupriyanovNM.Sprint2.Task5.V15
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Оператор switch                                                   *");
-            Console.WriteLine("* Задание #4                                                              *");
-            Console.WriteLine("* Вариант #19                                                             *");
+            Console.WriteLine("* Задание #5                                                              *");
+            Console.WriteLine("* Вариант #15                                                             *");
             Console.WriteLine("* Выполнил: Куприянов Никита Максимович | ИБКСб-26-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу, которая вычисляет требуемое значение с              *");
-            Console.WriteLine("* использованием тернарного оператор, где пользователь вводит значение    *");
-            Console.WriteLine("* переменных x,y с клавиатуры.                                            *");
+            Console.WriteLine("* Написать программу, которая использует оператор switch вычисляет        *");
+            Console.WriteLine("* требуемое значение и возвращает результат.                              *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
