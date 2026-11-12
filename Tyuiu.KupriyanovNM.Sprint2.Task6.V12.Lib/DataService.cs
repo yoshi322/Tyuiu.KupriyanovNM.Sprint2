@@ -76,7 +76,7 @@ namespace Tyuiu.KupriyanovNM.Sprint2.Task6.V12.Lib
                 }
             }
 
-            return g + "." + m + "." + n;
+            return "0"+n + "." + "0"+m + "." +g;
         }
     }
 }
