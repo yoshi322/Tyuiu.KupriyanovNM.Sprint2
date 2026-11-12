@@ -12,7 +12,7 @@ namespace Tyuiu.KupriyanovNM.Sprint2.Task0.V21.Lib
             result[2] = x < y;
             result[3] = x - y > x;
             result[4] = x <= y;
-            result[5] = x - y >= x;
+            result[5] = x - y >= x; // a
 
             return result;
         }

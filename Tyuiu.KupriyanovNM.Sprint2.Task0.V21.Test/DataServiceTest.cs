@@ -15,7 +15,7 @@ namespace Tyuiu.KupriyanovNM.Sprint2.Task0.V21.Test
                 false, false, false, false, false, false
             };
 
-            CollectionAssert.AreEqual(expected, result);
+            CollectionAssert.AreEqual(expected, result); //a
         }
     }
 }

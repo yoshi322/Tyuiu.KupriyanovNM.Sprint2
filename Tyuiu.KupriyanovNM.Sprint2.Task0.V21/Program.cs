@@ -25,8 +25,8 @@ namespace Tyuiu.KupriyanovNM.Sprint2.Task0.V21
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("X = " + x);
-            Console.WriteLine("Y = " + y);
+            Console.WriteLine("X =  " + x);
+            Console.WriteLine("Y =  " + y);
             Console.WriteLine();
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
